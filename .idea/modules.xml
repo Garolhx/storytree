@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/storytree.iml" filepath="$PROJECT_DIR$/.idea/storytree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-commons/storytree-commons.iml" filepath="$PROJECT_DIR$/storytree-commons/storytree-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-commons-domain/storytree-commons-domain.iml" filepath="$PROJECT_DIR$/storytree-commons-domain/storytree-commons-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-commons-mapper/storytree-commons-mapper.iml" filepath="$PROJECT_DIR$/storytree-commons-mapper/storytree-commons-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-commons-service/storytree-commons-service.iml" filepath="$PROJECT_DIR$/storytree-commons-service/storytree-commons-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-database/storytree-database.iml" filepath="$PROJECT_DIR$/storytree-database/storytree-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-dependencies/storytree-dependencies.iml" filepath="$PROJECT_DIR$/storytree-dependencies/storytree-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-external-skywalking/storytree-external-skywalking.iml" filepath="$PROJECT_DIR$/storytree-external-skywalking/storytree-external-skywalking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-service-reg/storytree-service-reg.iml" filepath="$PROJECT_DIR$/storytree-service-reg/storytree-service-reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-service-reply/storytree-service-reply.iml" filepath="$PROJECT_DIR$/storytree-service-reply/storytree-service-reply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-service-sso/storytree-service-sso.iml" filepath="$PROJECT_DIR$/storytree-service-sso/storytree-service-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-service-story/storytree-service-story.iml" filepath="$PROJECT_DIR$/storytree-service-story/storytree-service-story.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-service-user/storytree-service-user.iml" filepath="$PROJECT_DIR$/storytree-service-user/storytree-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storytree-service-write/storytree-service-write.iml" filepath="$PROJECT_DIR$/storytree-service-write/storytree-service-write.iml" />
+    </modules>
+  </component>
+</project>

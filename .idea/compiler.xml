@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="storytree-commons" />
+        <module name="storytree-commons-domain" />
+        <module name="storytree-commons-mapper" />
+        <module name="storytree-commons-service" />
+        <module name="storytree-database" />
+        <module name="storytree-external-skywalking" />
+        <module name="storytree-service-reg" />
+        <module name="storytree-service-reply" />
+        <module name="storytree-service-sso" />
+        <module name="storytree-service-story" />
+        <module name="storytree-service-user" />
+        <module name="storytree-service-write" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="storytree-commons" target="1.8" />
+      <module name="storytree-commons-domain" target="1.8" />
+      <module name="storytree-commons-mapper" target="1.8" />
+      <module name="storytree-commons-service" target="1.8" />
+      <module name="storytree-database" target="1.8" />
+      <module name="storytree-dependencies" target="1.8" />
+      <module name="storytree-external-skywalking" target="1.8" />
+      <module name="storytree-service-reg" target="1.8" />
+      <module name="storytree-service-reply" target="1.8" />
+      <module name="storytree-service-sso" target="1.8" />
+      <module name="storytree-service-story" target="1.8" />
+      <module name="storytree-service-user" target="1.8" />
+      <module name="storytree-service-write" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lhx.storytree.commons.mapper.RecordMapper">
+  <resultMap id="BaseResultMap" type="com.lhx.storytree.commons.domain.Record">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="record_id" jdbcType="BIGINT" property="recordId" />
+    <result column="record_ip" jdbcType="VARCHAR" property="recordIp" />
+    <result column="record_time" jdbcType="TIMESTAMP" property="recordTime" />
+    <result column="record_browser" jdbcType="VARCHAR" property="recordBrowser" />
+    <result column="record_user_id" jdbcType="BIGINT" property="recordUserId" />
+    <result column="record_tag" jdbcType="CHAR" property="recordTag" />
+  </resultMap>
+</mapper>

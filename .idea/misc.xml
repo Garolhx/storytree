@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/storytree-commons-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-commons-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-commons-service/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-database/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-external-skywalking/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-service-reg/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-service-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-service-story/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-service-reply/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-service-write/pom.xml" />
+        <option value="$PROJECT_DIR$/storytree-service-user/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

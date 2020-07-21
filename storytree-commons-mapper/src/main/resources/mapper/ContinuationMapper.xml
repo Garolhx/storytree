@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lhx.storytree.commons.mapper.ContinuationMapper">
+  <resultMap id="BaseResultMap" type="com.lhx.storytree.commons.domain.Continuation">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="continuation_id" jdbcType="BIGINT" property="continuationId" />
+    <result column="continuation_content" jdbcType="VARCHAR" property="continuationContent" />
+    <result column="continuation_time" jdbcType="TIMESTAMP" property="continuationTime" />
+    <result column="continuation_paragraph" jdbcType="VARCHAR" property="continuationParagraph" />
+    <result column="continuation_story_id" jdbcType="BIGINT" property="continuationStoryId" />
+    <result column="continuation_user_id" jdbcType="BIGINT" property="continuationUserId" />
+    <result column="continuation_tag" jdbcType="CHAR" property="continuationTag" />
+  </resultMap>
+</mapper>
