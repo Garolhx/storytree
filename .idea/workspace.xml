@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa5e8ad7-0d3c-4d70-aca8-80e1e0b48acc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eykpAEeibWn2NPrTcvnqoDW7uf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StoryTreeServiceUserApplication">
+    <configuration name="StoryTreeServiceRegApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storytree-service-reg" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.storytree.service.reg.StoryTreeServiceRegApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoryTreeServiceReplyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storytree-service-reply" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.storytree.service.reply.StoryTreeServiceReplyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoryTreeServiceSsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storytree-service-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.storytree.service.sso.StoryTreeServiceSsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoryTreeServiceStoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storytree-service-story" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.storytree.service.story.StoryTreeServiceStoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoryTreeServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storytree-service-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.storytree.service.user.StoryTreeServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoryTreeServiceWriteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storytree-service-write" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lhx.storytree.service.write.StoryTreeServiceWriteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa5e8ad7-0d3c-4d70-aca8-80e1e0b48acc" name="Default Changelist" comment="" />
+      <created>1595301400083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595301400083</updated>
+      <workItem from="1595301405202" duration="10688000" />
+      <workItem from="1595378040985" duration="1278000" />
+      <workItem from="1595383639266" duration="42000" />
+      <workItem from="1595386149030" duration="6010000" />
+      <workItem from="1595474822871" duration="1396000" />
+      <workItem from="1595556094414" duration="174000" />
+      <workItem from="1595556272374" duration="18000" />
+      <workItem from="1598253563561" duration="565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="4" key="#Project_Structure" timestamp="1595304596501">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="98" y="4" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1595304596501" />
+    <state x="367" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598253839345">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="367" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1598253839345" />
+    <state x="373" y="184" key="FileChooserDialogImpl" timestamp="1595556288143">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="373" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1595556288143" />
+    <state x="276" y="35" key="SettingsEditor" timestamp="1598253966381">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="276" y="35" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1598253966381" />
+    <state x="182" y="143" width="995" height="495" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1598254127564">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="182" y="143" width="995" height="495" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1440.860@0.0.1440.860" timestamp="1598254127564" />
+    <state x="437" y="0" width="618" height="860" key="find.popup" timestamp="1595404987131">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="437" y="0" width="618" height="860" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1595404987131" />
+    <state x="110" y="101" key="new project wizard" timestamp="1595302182011">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="110" y="101" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1595302182011" />
+  </component>
+</project>

@@ -6,18 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="storytree-commons" />
-        <module name="storytree-commons-domain" />
-        <module name="storytree-commons-mapper" />
-        <module name="storytree-commons-service" />
-        <module name="storytree-database" />
-        <module name="storytree-external-skywalking" />
-        <module name="storytree-service-reg" />
         <module name="storytree-service-reply" />
-        <module name="storytree-service-sso" />
-        <module name="storytree-service-story" />
+        <module name="storytree-commons-service" />
         <module name="storytree-service-user" />
+        <module name="storytree-service-story" />
+        <module name="storytree-commons-domain" />
+        <module name="storytree-database" />
         <module name="storytree-service-write" />
+        <module name="storytree-commons-mapper" />
+        <module name="storytree-external-skywalking" />
+        <module name="storytree-commons" />
+        <module name="storytree-service-sso" />
+        <module name="storytree-service-reg" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,5 +35,21 @@
       <module name="storytree-service-user" target="1.8" />
       <module name="storytree-service-write" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="storytree-commons" options="-parameters" />
+      <module name="storytree-commons-domain" options="-parameters" />
+      <module name="storytree-commons-mapper" options="-parameters" />
+      <module name="storytree-commons-service" options="-parameters" />
+      <module name="storytree-database" options="-parameters" />
+      <module name="storytree-external-skywalking" options="-parameters" />
+      <module name="storytree-service-reg" options="-parameters" />
+      <module name="storytree-service-reply" options="-parameters" />
+      <module name="storytree-service-sso" options="-parameters" />
+      <module name="storytree-service-story" options="-parameters" />
+      <module name="storytree-service-user" options="-parameters" />
+      <module name="storytree-service-write" options="-parameters" />
+    </option>
   </component>
 </project>
